@@ -7,7 +7,7 @@ firstyr = 1880
 lastyr = 2015
 
 #where the files are located
-dirname = "Users⁩\\corydemar\⁩\⁨Desktop⁩\\⁨Programing\⁩\⁨python_class_2\\⁨names_baby⁩"
+dirname = "your\\path\\⁨names_baby⁩"
 
 def onefile(yr):
     """processes a file for one year.
